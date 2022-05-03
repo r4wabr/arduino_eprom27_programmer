@@ -28,8 +28,8 @@
 
 /* Voltage control (for programming chips) */
 #define voltageControl A6
-#define rTop 10000.0
-#define rBottom 1500.0
+#define rTop 12000.0
+#define rBottom 1100.0
 
 //#define MESSAGES
 

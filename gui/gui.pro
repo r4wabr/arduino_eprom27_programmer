@@ -3,9 +3,9 @@
 # Project created by QtCreator 2018-12-23T23:26:54
 #
 #-------------------------------------------------
-
-QT       += core gui
-QT       += serialport
+#LIBS += libQt5SerialPort.a
+QT += core gui
+QT += serialport
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
